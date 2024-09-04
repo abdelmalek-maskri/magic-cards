@@ -27,4 +27,6 @@ You can play the game here: [my-magic-cards.netlify.app](https://my-magic-cards.
 
 ## Screenshot
 
-![Game Screenshot](path/to/your/screenshot.png)
+
+![Game Screenshot](path/to/yo![Screenshot 2024-09-04 at 22 11 34](https://github.com/user-attachments/assets/7c31931f-fcd5-4cfb-be65-8bb787065093)
+ur/screenshot.png)
